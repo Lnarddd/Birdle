@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menus/Main_menu.unity
+    guid: 8b4628fbfad98c147bde4f54646f1c32
+  - enabled: 1
+    path: Assets/Menus/New_Game_Screen.unity
+    guid: 278f068a25b98c24c9821dfac73fe87b
+  - enabled: 1
+    path: Assets/Menus/Player_Custom.unity
+    guid: 0bcdc1c8e3355a04c878298ec594cba3
+  - enabled: 1
+    path: Assets/Menus/Game_menu.unity
+    guid: 03a7028ce17450f4fbf8df9366735cf3
+  - enabled: 1
+    path: Assets/Menus/Minigame_Selector.unity
+    guid: eaa4cbc011aa6c44ea81b63fe6b5db5f
+  - enabled: 1
+    path: Assets/Menus/Battle_Menu.unity
+    guid: f62873a2628b62446b719a33e4130cec
+  - enabled: 1
+    path: Assets/Menus/Battle_Menu_Boss.unity
+    guid: 4903eca1901d7ce4297285aacc1841e1
+  - enabled: 1
+    path: Assets/Battle_Scenes/Battle_Scene_1.unity
+    guid: b11edff8b6e3b20408a5f69b28d3b077
+  - enabled: 1
+    path: Assets/Battle_Scenes/Battle_Scene_2.unity
+    guid: 53feea6f73001ed4e8ae4d1561b645ff
+  - enabled: 1
+    path: Assets/Battle_Scenes/Battle_Scene_3.unity
+    guid: d22a1eb7dd4ec784b961c033c99c7d50
+  - enabled: 1
+    path: Assets/Battle_Scenes/Battle_Scene_4.unity
+    guid: dfe19f7060f96834283fbfe7e8cd8b4e
+  - enabled: 1
+    path: Assets/Battle_Scenes/Boss_Scene/Boss_Scene_1.unity
+    guid: 46702e9a137c99147bf6960b620ad575
+  - enabled: 1
+    path: Assets/Battle_Scenes/Boss_Scene/Boss_Scene_2.unity
+    guid: 833c77a8360fb164d88f65cb70f6548d
+  - enabled: 1
+    path: Assets/Battle_Scenes/Boss_Scene/Boss_Scene_3.unity
+    guid: 8418295ce2fd10f4f836097a622b9249
+  - enabled: 1
+    path: Assets/Battle_Scenes/Boss_Scene/Boss_Scene_4.unity
+    guid: c3d72782a56a135428fae052d07a4915
+  - enabled: 1
+    path: Assets/Menus/End_Screen_Win.unity
+    guid: 2ba9112629233a74daf5f5e717109819
+  - enabled: 1
+    path: Assets/Menus/End_Screen_Win_Boss.unity
+    guid: be3061f13b35b294e81417c87f2df575
+  - enabled: 1
+    path: Assets/Menus/End_Screen_Loss.unity
+    guid: 9c14ef7f818c3094680b937c071d8bfb
+  - enabled: 1
+    path: Assets/Training_Game/Agility_Minigame/Levels/Agility_Minigame_1.unity
+    guid: 54c1ace760745964991d147bd1fe7d3a
+  - enabled: 1
+    path: Assets/Training_Game/Agility_Minigame/Levels/Agility_Minigame_2.unity
+    guid: 8718dfa7d6342754f86d8da1511ec6a0
+  - enabled: 1
+    path: Assets/Training_Game/Agility_Minigame/Levels/Agility_Minigame_3.unity
+    guid: 02e31bef8176fcc41bb3f436eb6a2dbc
+  - enabled: 1
+    path: Assets/Training_Game/Agility_Minigame/Levels/Agility_Minigame_4.unity
+    guid: 8500d95480dc75d4395371e769d373bf
+  - enabled: 1
+    path: Assets/Training_Game/Endurance_Minigame/Levels/Endurance_Minigame_1.unity
+    guid: 78b3175f8545ea646a1c77f240ca15ec
+  - enabled: 1
+    path: Assets/Training_Game/Endurance_Minigame/Levels/Endurance_Minigame_2.unity
+    guid: 25702d9a74d7d214db55c72a6a6dae7a
+  - enabled: 1
+    path: Assets/Training_Game/Endurance_Minigame/Levels/Endurance_Minigame_3.unity
+    guid: f2e71e6825f5b944e8e40d495b0f3fcb
+  - enabled: 1
+    path: Assets/Training_Game/Endurance_Minigame/Levels/Endurance_Minigame_4.unity
+    guid: 4d3350b643aa07b42b3bc203dd1df19e
+  - enabled: 1
+    path: Assets/Training_Game/Strength_Minigame/Levels/Strength_Minigame_level_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Training_Game/Strength_Minigame/Levels/Strength_Minigame_level_2.unity
+    guid: 801d60393f42fad4eb049816c8635d98
+  - enabled: 1
+    path: Assets/Training_Game/Strength_Minigame/Levels/Strength_Minigame_level_3.unity
+    guid: bf68c501abf7d5d4ba100535b927f273
+  - enabled: 1
+    path: Assets/Training_Game/Strength_Minigame/Levels/Strength_Minigame_level_4.unity
+    guid: b8890246b17f6ae4d9395a72a78fcf6d
+  - enabled: 1
+    path: Assets/Training_Game/Strength_Minigame/Levels/Strength_Minigame_EndScreen.unity
+    guid: eb4856de3f29d5946b281c2d9ade10c4
+  - enabled: 1
+    path: Assets/Training_Game/Agility_Minigame/Levels/Agility_Minigame_Endscreen.unity
+    guid: a485f343989863a448ae3e50471dbd5d
+  - enabled: 1
+    path: Assets/Training_Game/Endurance_Minigame/Levels/Endurance_Minigame_Endscreen.unity
+    guid: 128fabcffbdf165498d7d67e7eb9d0be
+  - enabled: 1
+    path: Assets/Menus/Shop/Shop_Level_1.unity
+    guid: d368c0032d06a6246973a1f0f11f2fbe
+  - enabled: 1
+    path: Assets/Menus/Shop/Shop_Level_2.unity
+    guid: c9aed364db94a4a4dafe2e590dd38920
+  - enabled: 1
+    path: Assets/Menus/Shop/Shop_Level_3.unity
+    guid: bb0c7c1a8558194499e872cc1cc8e5a9
+  - enabled: 1
+    path: Assets/Menus/Shop/Shop_Level_4.unity
+    guid: fac339bd8e0049e43bfb8276bf9db036
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene_1.unity
+    guid: b58b187905b05f24c9d5745104d35b52
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene_2.unity
+    guid: 8ab6c8ba25d78de45a2554c976cf4ac8
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene_3.unity
+    guid: de70ff1d158641c4592d122c93c4a1d7
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene_4.unity
+    guid: c1d633bc0839b784686be0808e1bac26
+  - enabled: 1
+    path: Assets/Cutscenes/Cutscene_5.unity
+    guid: 093b647a14845464881aa9cb3b32fc06
+  - enabled: 1
+    path: Assets/Cutscenes/Congratulations.unity
+    guid: d053902c0cd6e524a8eb7f3d55fabe7a
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 0489a0326e37f1440987375d88c97805, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 747844890fc1db048a2a7eafc1b4a90a, type: 2}
