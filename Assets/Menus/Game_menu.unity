@@ -1115,8 +1115,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.5
-  m_Text: THIS IS BUTTONE WOULD ONLY BE AVAILABLE ONCE YOU HAVE REACHED MAXIMUM WINS
-    FOR THE REGION.
+  m_Text: THIS BUTTON WOULD ONLY BE AVAILABLE ONCE YOU HAVE REACHED MAXIMUM WINS
+    FOR THAT LEVEL
 --- !u!222 &747856291
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2006,7 +2006,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.5
-  m_Text: PRESS THIS BUTTON TO CLOSE THE MENU.
+  m_Text: PRESS THIS BUTTON TO CLOSE THE MENU
 --- !u!222 &1460702572
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2085,8 +2085,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.5
-  m_Text: welcome to the game menu! This is where you are gonna spend most of your
-    time improving your bird throughout the championship.
+  m_Text: welcome to the game menu! This is where you spend most of your time improving
+    your bird throughout the story.
 --- !u!222 &1580164462
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2389,7 +2389,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.5
-  m_Text: THESE BUTTONS OFFER INFORMATION ABOUT THE GAME THROUGHOUT YOUR ADVENTURE.
+  m_Text: THIS BUTTON OFFER INFORMATION ABOUT THE GAME THROUGHOUT YOUR ADVENTURE
 --- !u!222 &1950478120
 CanvasRenderer:
   m_ObjectHideFlags: 0
