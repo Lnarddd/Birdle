@@ -84,7 +84,7 @@ public class Endurance_level_4_SpawnPoint : MonoBehaviour
                 Instantiate(obs5);
                 break;
             case 5:
-                Instantiate(obs6, new Vector3( 10, Random.Range(-1, 1), 0), Quaternion.identity);
+                Instantiate(obs6, new Vector3( 10, Random.Range(0, 1), 0), Quaternion.identity);
                 break;
             case 6:
                 Instantiate(obs7, new Vector3( Random.Range(-3, 4), 10, 0), Quaternion.identity);

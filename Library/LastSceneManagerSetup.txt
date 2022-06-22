@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Menus/Game_menu.unity
+- path: Assets/Training_Game/Agility_Minigame/Levels/Agility_Minigame_4.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
